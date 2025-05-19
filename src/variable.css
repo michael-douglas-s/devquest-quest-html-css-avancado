@@ -1,0 +1,18 @@
+:root {
+  /* Colors */
+  --violet: hsl(257, 40%, 49%);
+  --soft-magenta: hsl(300, 69%, 71%);
+  --white: #ffffff;
+
+  /* Typography */
+  --font-body: "Open Sans", sans-serif;
+  --font-size-base: 1.6rem;
+
+  /* Spacing */
+  --space-sm: 1rem;
+  --space-md: 2rem;
+  --space-lg: 4rem;
+
+  /* Border */
+  --radius-pill: 50px;
+}
