@@ -29,7 +29,8 @@ Essa abordagem trouxe clareza tanto na estrutura quanto na manutenção do códi
 
 ## 📸 Screenshot
 
-![screenshot do projeto](./src/images/Animação-Huddle.gif) 
+![screenshot do projeto](/src/images/Animação-Huddle.gif) 
+
 ---
 
 ## 🛠️ Tecnologias Utilizadas
